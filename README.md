@@ -1,16 +1,27 @@
-## Hi there 👋
+# [cite_start]Hi, I'm Pasan Pramuditha [cite: 1]
 
-<!--
-**Pasan-Pramuditha/Pasan-Pramuditha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]A motivated undergraduate IT student and Intern Software Engineer with a strong foundation in programming and software development. [cite: 3, 7]
 
-Here are some ideas to get you started:
+### Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [cite_start]💻 **Tech Stack:** .NET, Flutter, Python, Java, C#, MySQL, PostgreSQL [cite: 21, 25, 34, 39, 54]
+* [cite_start]👨‍💻 **Currently:** Intern Software Engineer @ SLTMobitel [cite: 6, 7]
+* [cite_start]🎓 **Academic:** BSc (Hons) Computer Science, BTEC HND in Computing [cite: 10, 12]
+* [cite_start]🚀 **Interests:** Mobile App Development, AI Integration, Full-Stack Architecture [cite: 24, 25, 54]
+
+### About
+
+[cite_start]I'm Pasan Pramuditha, a detail-oriented undergraduate IT student with a strong foundation in programming, networking, and software development. [cite: 1, 3]
+
+[cite_start]I specialize in both mobile and full-stack development using technologies such as Flutter, .NET 8 (ASP.NET Core MVC), Python (FastAPI), and Java. [cite: 21, 25, 34] [cite_start]I have developed various platforms including SmartFin, an AI-powered personal finance mobile app utilizing NLP and Linear Regression models [cite: 24, 26][cite_start], and internal management systems streamlining operations for SLTMobitel. [cite: 19, 20]
+
+[cite_start]Currently, I work as an Intern Software Engineer in the Talent Development Section at Sri Lanka Telecom PLC (SLTMobitel), contributing to digital platforms using .NET 8, HTML, CSS, JavaScript, and MySQL. [cite: 6, 7, 8, 20, 21]
+
+[cite_start]Academically, I am pursuing a BSc (Hons) in Computer Science (Software Engineering) from the University of Wolverhampton (Cinec Campus). [cite: 10, 11] [cite_start]Prior to this, I completed a High Diploma in Software Engineering (BTEC HND level 5 in Computing) with a Merit grade from Pearson College London (Esoft Metro Campus). [cite: 12, 13, 14]
+
+### Education
+
+| Institution | Degree / Diploma | Timeline |
+| :--- | :--- | :--- |
+| [cite_start]**University of Wolverhampton (Cinec Campus)** [cite: 11] | [cite_start]BSc (Hons) Computer Science (Software Engineering) [cite: 10] | [cite_start]Sep 2025 - Present [cite: 16] |
+| [cite_start]**Pearson College London (Esoft Metro Campus)** [cite: 13] | [cite_start]High Diploma In Software Engineering [cite: 12] | [cite_start]2023 - 2025 [cite: 17] |
