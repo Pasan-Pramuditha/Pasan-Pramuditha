@@ -1,13 +1,13 @@
 # I'm Pasan Pramuditha
 
-[cite_start]A motivated undergraduate IT student and Intern Software Engineer with a strong foundation in programming and software development. [cite: 3, 7]
+A motivated undergraduate IT student and Intern Software Engineer with a strong foundation in programming and software development.
 
 ### Highlights
 
-* [cite_start]💻 **Tech Stack:** .NET, Flutter, Python, Java, C#, MySQL, PostgreSQL [cite: 21, 25, 34, 39, 54]
-* [cite_start]👨‍💻 **Currently:** Intern Software Engineer @ SLTMobitel [cite: 6, 7]
-* [cite_start]🎓 **Academic:** BSc (Hons) Computer Science, BTEC HND in Computing [cite: 10, 12]
-* [cite_start]🚀 **Interests:** Mobile App Development, AI Integration, Full-Stack Architecture [cite: 24, 25, 54]
+* 💻 **Tech Stack:** React, C#, .NET, Flutter, Python, Java, MySQL
+* 👨‍💻 **Work Experience:** Intern Software Engineer @ SLTMobitel 
+* 🎓 **Academic:** BSc (Hons) Computer Science, BTEC HND in Computing, Diploma
+* 🚀 **Interests:** Mobile App Development, AI Integration, Full-Stack Architecture 
 
 ### About
 
