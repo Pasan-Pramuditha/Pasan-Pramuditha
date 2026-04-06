@@ -33,15 +33,12 @@ I am a Software Engineering undergraduate currently working as an Intern Softwar
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="flutter" title="Flutter" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="40" alt="dart" title="Dart" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react" title="React" />
+<img src="https://camo.githubusercontent.com/81009b146327bd4b2041db71eb2dfb815387f2da20c8997c4eb57844b7d7f010/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" height="40" alt="react" title="React" />
 
 **Backend**
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet" title=".NET" />&nbsp;
+<img src="https://camo.githubusercontent.com/74325687f824405f284fd35742732ef55d50b0d46df384dcac0e314aff5c01db/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f646f742d6e65742f646f742d6e65742d6f726967696e616c2e737667" height="40" alt="dotnet" title=".NET" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" title="FastAPI" />
-<img src="https://camo.githubusercontent.com/74325687f824405f284fd35742732ef55d50b0d46df384dcac0e314aff5c01db/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f646f742d6e65742f646f742d6e65742d6f726967696e616c2e737667" height="40" alt="dotnet" title=".NET" />
-<img src="https://camo.githubusercontent.com/81009b146327bd4b2041db71eb2dfb815387f2da20c8997c4eb57844b7d7f010/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" height="40" alt="react" title="React" />
-
 
 **Databases**
 <br>
@@ -51,16 +48,16 @@ I am a Software Engineering undergraduate currently working as an Intern Softwar
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" title="SQLite" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="40" alt="firebase" title="Firebase" />
 
-**Authentication**
-<br>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="30" alt="JWT Auth" />
-
 **AI / ML**
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" title="TensorFlow" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn" title="Scikit-Learn" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" alt="pandas" title="Pandas" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="numpy" title="NumPy" />
+
+**Authentication**
+<br>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="30" alt="JWT Auth" />
 
 **DevOps / Tools / OS**
 <br>
