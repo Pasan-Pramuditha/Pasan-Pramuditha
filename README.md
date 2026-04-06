@@ -1,7 +1,5 @@
 # Hi 👋, I'm Pasan Pramuditha
 
-A motivated undergraduate IT student and Intern Software Engineer with a strong foundation in programming and software development.
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&width=600&lines=Motivated+IT+Undergraduate;Intern+Software+Engineer;Full-Stack+%26+Mobile+Developer)](https://git.io/typing-svg)
 
 ### Highlights
