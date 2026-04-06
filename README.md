@@ -78,3 +78,10 @@ I am a Software Engineering undergraduate currently working as an Intern Softwar
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma" title="Figma" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux" title="Linux" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40" alt="windows" title="Windows" />
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pasan-Pramuditha&show_icons=true&theme=radium" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasan-Pramuditha&layout=compact&theme=radium" height="165" alt="Top Languages" />
+</div>
