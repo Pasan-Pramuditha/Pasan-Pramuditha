@@ -1,4 +1,4 @@
-# [cite_start]Hi, I'm Pasan Pramuditha [cite: 1]
+# I'm Pasan Pramuditha
 
 [cite_start]A motivated undergraduate IT student and Intern Software Engineer with a strong foundation in programming and software development. [cite: 3, 7]
 
