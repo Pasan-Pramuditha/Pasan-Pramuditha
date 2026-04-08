@@ -83,6 +83,5 @@ I am a Software Engineering undergraduate currently working as an Intern Softwar
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pasan-Pramuditha&show_icons=true&theme=radium&v=1" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasan-Pramuditha&layout=compact&theme=radium&v=1" height="165" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasan-Pramuditha&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
