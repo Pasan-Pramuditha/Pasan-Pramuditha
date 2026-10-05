@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pasan Pramuditha
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&width=600&lines=First+Class+BSc+Graduate;Former+Intern+Software+Engineer;Full-Stack+%26+Mobile+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&width=600&lines=First+Class+BSc+(Hons)+Graduate;Former+Intern+Software+Engineer;Full-Stack+%26+Mobile+Developer)](https://git.io/typing-svg)
 
 ### Highlights
 
